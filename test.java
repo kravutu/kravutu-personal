@@ -1,2 +1,3 @@
+//some comment
 class test{
 }
